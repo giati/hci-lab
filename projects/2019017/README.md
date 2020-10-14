@@ -54,4 +54,4 @@ Tags:
   2o paradoteo</a> by Π2019017 (<a href="https://codepen.io/kalathas">@kalathas</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-https://static.codepen.io/assets/embed/ei.js
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
