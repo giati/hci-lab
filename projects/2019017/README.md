@@ -49,7 +49,7 @@ Tags:
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 
-<p class="codepen" data-height="293" data-theme-id="dark" data-default-tab="html,result" data-user="kalathas" data-slug-hash="pobgEKo" style="height: 293px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="2o paradoteo">
+<p class="codepen" data-height="319" data-theme-id="dark" data-default-tab="html,result" data-user="kalathas" data-slug-hash="pobgEKo" data-preview="true" style="height: 319px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="2o paradoteo">
   <span>See the Pen <a href="https://codepen.io/kalathas/pen/pobgEKo">
   2o paradoteo</a> by Π2019017 (<a href="https://codepen.io/kalathas">@kalathas</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
