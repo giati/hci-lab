@@ -30,7 +30,7 @@
 ## Παραδοτέο 2
 
 Διάλεξα μια άσκηση με ένα κουμπί και έπρεπε να επεκτείνω τον κώδικα ώστε όταν πατάω κλικ στο κουμπί να κάνει κάποια λειτουργία. 
-[Button](https://github.com/kalathas/site/blob/master/_remix/button.md)
+[Button](https://github.com/p19kala/site/blob/%CE%A02019017/_remix/button.md)
 
 ## Πηγές:
 [How to put link in HTML for a button](https://stackoverflow.com/a/20343328)
